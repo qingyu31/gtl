@@ -1,2 +1,2 @@
 # GTL
-a golang template library
+a golang template library working with generic types
